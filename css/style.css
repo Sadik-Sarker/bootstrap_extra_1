@@ -1,0 +1,14 @@
+html {
+  scroll-behavior: smooth;
+}
+.box {
+  min-height: 50px;
+  background-color: red;
+}
+.box2 {
+  min-height: 30px;
+  background-color: navy;
+}
+.mh-200 {
+  min-height: 200px;
+}
